@@ -11,4 +11,4 @@ The applications for character-level labels are endless:
 
 ### Usage
 
-To run the Charsify front-end, make sure you have a recent version of node installed, then clone this repo, run `npm install` followed by `npm start`.
+To run the Charsify front-end, make sure you have a recent version of node installed, clone this repo, run `npm install` followed by `npm start`, and visit localhost:8080 in your browser. 
