@@ -1,4 +1,4 @@
-### Charisfy
+### Charsify
 
 This is a work-in-progress front-end for a tool that allows users to assign labels to different characters of a text. For example, in a two paragraph 5-star review, we might label the first character of each paragraph an `start_paragraph`, the last character of each paragraph an `end_paragraph`, each noun as a `part_of_speech_noun`, all characters except for one caveat the reviewer had as `positive_sentiment` and all characters as `first_person`. Characters will be able to have multiple labels, and there is no restriction on the kinds of labels.
 
@@ -11,4 +11,4 @@ The applications for character-level labels are endless:
 
 ### Usage
 
-To run the Charsify front-end, make sure you have a recent version of node installed, clone this repo, run `npm install` followed by `npm start`, and visit localhost:8080 in your browser. 
+To run the Charsify front-end, make sure you have a recent version of node installed, clone this repo, run `npm install` followed by `npm start`, and visit localhost:8080 in your browser.
